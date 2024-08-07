@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Vincíus Torena 😁
+## Bem-vindo(a) ao perfil do Vinícius Torena 😁
 
  <div>
    <a href="https://github.com/Vini-Torena">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra contato segue o LinkeDIn abaixo 
+### Pra contato segue o LinkedIn abaixo 
  
 <div>
  
